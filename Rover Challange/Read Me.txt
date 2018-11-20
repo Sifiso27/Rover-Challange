@@ -1,0 +1,14 @@
+App is written in delphi - Tokyo
+
+Runtime images 
+* \Runtime images
+
+Use the exe in 
+* \Win32\Release\ProjectRover.exe
+
+I included all the runtime components when i compiled the
+exe it should work.
+
+Code
+ UnitMain.dfm - Screen
+ UnitMain.pas - Back end (this can be open on notepad++ - select language D)
